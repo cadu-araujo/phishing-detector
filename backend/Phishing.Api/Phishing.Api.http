@@ -1,0 +1,6 @@
+@Phishing.Api_HostAddress = http://localhost:5059
+
+GET {{Phishing.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
