@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="Phishing.Api/Phishing.Api.csproj" />
-  <Project Path="Phishing.Application/Phishing.Application.csproj" />
-  <Project Path="Phishing.Domain/Phishing.Domain.csproj" />
-  <Project Path="Phishing.Infrastructure/Phishing.Infrastructure.csproj" />
-</Solution>
